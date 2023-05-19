@@ -16,7 +16,7 @@ A idealização surgiu após o desanimo em ficar preenchendo campos sempre com o
 
 ## 📖 Como utilizar
 
-Após esses passos, abra uma nova aba, clique no icone da extensão
+Após esses passos, você pode abrir a extensão, e seguir os seguintes passos:
 
 - Preencha os campos com os seus dados
 - Clique em salvar
