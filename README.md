@@ -21,8 +21,8 @@ Após esses passos, abra uma nova aba, clique no icone da extensão
 
 - Preencha os campos com os seus dados
 - Clique em salvar
-
-Após isso abra um formulário de empregabilidade, abra a extensão e clique no botão Preencher Formulário
+- Após isso abra um formulário de empregabilidade
+- Abra a extensão e clique no botão Preencher Formulário
 
 Agora é só revisar os campos extras ao final do formulário e enviar a sua candidatura! 😉😁
 
