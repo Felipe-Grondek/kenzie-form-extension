@@ -7,8 +7,7 @@ A idealização surgiu após o desanimo em ficar preenchendo campos sempre com o
 ## 📦 Como instalar
 
 - Faça o download do repositório
-- Clique com o botão direito em cima do arquivo
-- Clique em descompactar tudo
+- Descompacte o arquivo
 - Abra o google chrome
 - Va até a aba de extensões / gerenciamento de extensões
 - Habilite o modo de desenvolvedor
